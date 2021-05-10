@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Tu casa puede ser inteligente"
 ---
-This is my own content
-Use the left arrow to go back!
+Volvé con la flecha hacia la izquierda
